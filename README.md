@@ -1,4 +1,4 @@
-# EDR-skill v1.4 — Aspen EDR 换热器自动化技能（成品包）
+# EDR-skill 化设版本 — Aspen EDR 换热器自动化技能
 
 > 面向 Aspen EDR / Aspen Plus 的管壳式换热器**自动化建模、物性导入、规范校核、交付**技能包。
 > 全部内容均在 Windows + Aspen Plus V15 / Aspen EDR V15 实测验证。
